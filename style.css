@@ -333,7 +333,7 @@ ul {
 .section {
   position: relative;
   width: 50%;
-  padding: 55rem 5rem;
+  padding: 3rem 5rem 5rem 10rem;
   margin: 0;
   background-color: var(--color-background);
   /* backdrop-filter: blur(10px); */
@@ -358,14 +358,13 @@ ul {
 
 .section-intro-wrapper {
   position: relative;
-  padding: 20% 0;
+  padding: 2rem 0 ;
   border-bottom: 1px solid var(--color-text);
-  padding-bottom: 15rem;
 }
 
 .section-detail-wrapper {
   position: relative;
-  padding: 20% 0;
+  padding: 10% 0;
 }
 
 .section-image {
@@ -378,7 +377,7 @@ ul {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.8;
-  margin-top: 4rem;
+  margin-top: 2rem;
   color: var(--color-text);
 }
 
@@ -506,7 +505,7 @@ footer {
 
   .section {
     width: 100%;
-    padding: 20rem 2rem;
+    padding: 10rem 2rem;
   }
 
   .hero-main {
